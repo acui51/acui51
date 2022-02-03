@@ -1,6 +1,6 @@
 ### Hey 👋
 
-- Currently working on https://carta-beta.stanford.edu/ <br>
+- Currently working on https://carta.stanford.edu/ <br>
 
 Junior at Stanford University
 
