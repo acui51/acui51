@@ -2,5 +2,5 @@
 
 - Currently working on https://www.glean.com/ <br>
 
-Junior at Stanford University
+Just graduated from Stanford University
 
